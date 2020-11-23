@@ -1,7 +1,7 @@
 {
-  "name": "merge-stream-lines",
+  "name": "typescript-project-boilerplate",
   "version": "0.1.0",
-  "description": "Merge stream line by line",
+  "description": "Boilerplate codes for typescript project",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon --exec ts-node src",
